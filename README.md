@@ -1,4 +1,5 @@
-blog
-====
 
-blog octopress therec.com.br
+Acesse o site em http://www.threec.com.br/octopress
+
+[s]
+Clay Costa
